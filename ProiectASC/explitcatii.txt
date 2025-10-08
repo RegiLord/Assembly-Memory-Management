@@ -1,0 +1,9 @@
+5-Concrete
+
+"C:/users/Programs/folder"
+file1.txt file2.txt ... filen.txt
+fd -> file descriptorul
+size 
+
+1 <= fd <= 255 (modulo 256 daca vrem)
+int fc = fope(" .. ", "r") fc = fd 
